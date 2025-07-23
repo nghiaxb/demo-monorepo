@@ -1,0 +1,52 @@
+# Node
+node_modules/
+.pnpm/
+.pnpm-debug.log
+
+# VSCode
+.history/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+build/
+*.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Vite cache
+.cache/
+vite.config.ts.timestamp-*
+vite.svg.*
+
+# Env files
+.env
+.env.*.local
+
+# Output folders (if using Nuxt or other frameworks)
+.nuxt/
+.output/
+out/
+.next/
+
+# Test coverage
+coverage/
+__coverage__/
+
+# IDE or editor specific
+.idea/
+*.sublime*
+
+# Optional: ignore compiled assets in packages if applicable
+packages/**/dist/
+packages/**/lib/

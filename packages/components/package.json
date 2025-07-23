@@ -1,0 +1,9 @@
+{
+  "name": "@my/components",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "vue": "^3.5.18"
+  }
+}
